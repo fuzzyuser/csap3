@@ -10,6 +10,7 @@ namespace csap3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hullo world\n");
         }
     }
 }
